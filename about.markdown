@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![image tooltip here](/img/profile.jfif)
+
 Hi, I'm [Your Name]!
 
 [Write your introduction here. Briefly describe yourself, your profession, and your interests.]
