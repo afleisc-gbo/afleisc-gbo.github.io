@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-![image tooltip here](/img/profile.jfif)
+![profile photo](/img/profile.jfif)
 
-Hi, I'm [Your Name]!
+Hi, I'm Andrew!
 
-[Write your introduction here. Briefly describe yourself, your profession, and your interests.]
+I'm currently working as a Cloud Data Engineer in Austin, TX. 
 
-[Write your bio here. Share your background, experiences, or anything else you'd like visitors to know about you.]
+Please use the links at the bottom of this page to connect.

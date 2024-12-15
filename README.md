@@ -1,3 +1,3 @@
 https://jekyllrb.com/docs/installation/ubuntu/
 
-bundle exec jekyll serve --incremental
+bundle exec jekyll serve
